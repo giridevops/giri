@@ -1,2 +1,4 @@
 Hi
 Welcome to Git
+Hello guys
+Practice git a lot 
