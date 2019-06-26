@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+
+
+
+
 new bugfix file in master branch
+=======
+New bugfix file in bugfix branch
+>>>>>>> bugfix
